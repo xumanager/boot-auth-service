@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Bean;
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
-        System.out.println("123");
+        System.out.println("123的点点滴滴多多多多多多多多");
     }
 
     @Bean

@@ -100,6 +100,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578154277489" />
@@ -448,10 +449,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="开发人员修改了一次" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="94" key="#Project_Structure" timestamp="1579072490209">
+    <state x="361" y="94" key="#Project_Structure" timestamp="1579082283207">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1579072490209" />
+    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1579082283207" />
     <state x="620" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579072496707">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
